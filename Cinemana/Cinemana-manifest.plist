@@ -18,13 +18,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.shabakaty.cinemanaa</string>
+                <string>com.cd-rail.zhct</string>
                 <key>bundle-version</key>
-                <string>4.1.0</string>
+                <string>10</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Cinemana 4.1.0</string>
+                <string>قناة wh65m@</string>
             </dict>
         </dict>
     </array>
